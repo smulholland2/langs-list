@@ -4,4 +4,7 @@ Use this to populate HTML select elements to give users the ability to change th
 
 There is a simple Javascript example included. Feedback and suggestions appreciated.
 
+See it in <a href="https://codepen.io/nulref/pen/PooKYwd">action on CodePen</a>.
+Also part of <a href="https://smulholland.me/blog-helper">Handy Little Blog Helper</a>.
+
 
